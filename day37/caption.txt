@@ -1,0 +1,7 @@
+JavaScript quiz: can you guess all 3 outputs? (Debounce & Throttle)
+
+Day 37/40. Comment your answers like 1) 2) 3). Swipe to the last slide to check.
+
+Save this for your next interview and follow @rishiraj.tech.ai for daily JavaScript + AI/ML.
+
+#javascript #coding #programming #webdevelopment #learnjavascript
